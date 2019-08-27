@@ -56,3 +56,5 @@
   - [when you haven t heard back from an employer](https://github.com/learn-co-curriculum/careers-when-you-haven-t-heard-back-from-an-employer)            
   - [working with third party recruiting firms](https://github.com/learn-co-curriculum/careers-working-with-third-party-recruiting-firms)                  
   - [writing your design resume](https://github.com/learn-co-curriculum/careers-writing-your-design-resume)
+
+![you got an offer](https://media.giphy.com/media/26ybww7CAaQArsIsU/giphy.gif)
