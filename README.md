@@ -57,4 +57,4 @@
   - [working with third party recruiting firms](https://github.com/learn-co-curriculum/careers-working-with-third-party-recruiting-firms)                  
   - [writing your design resume](https://github.com/learn-co-curriculum/careers-writing-your-design-resume)
 
-![you got an offer](https://media.giphy.com/media/26ybww7CAaQArsIsU/giphy.gif)
+![get_a_job](https://media.giphy.com/media/l2QZTZkHdcWIGdWog/giphy.gif)
